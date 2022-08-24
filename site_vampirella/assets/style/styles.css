@@ -1,0 +1,92 @@
+.navbar{
+    background-color: black;
+  }
+
+
+.margin-logo-vampirella{
+    margin-left: 5%;
+}
+
+ul.principal{
+    margin-left: 5%;
+}
+
+.logo-vampi {
+    max-width: 100%;
+    height: auto;
+}
+
+#imgfire {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.justify-text {
+    text-align: justify;
+}
+
+.centrer-section {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 60%;
+}
+
+.yellow-background {
+    background-color: #F2E205;
+    margin: auto;
+ }
+
+ .red-background {
+    background-color: #D9042B;
+    margin:auto;
+ }
+
+ .black-background {
+    background-color: black;
+    margin:auto;
+ }
+
+ /* Parallax */
+ .vampirella-background {
+    background: url("../images/vampirella-pose.jpg") center 0 no-repeat fixed;
+}
+
+ .white-text{
+     color:white;
+ }
+
+ .margin-titres-top {
+     margin-top:30px !important;
+ }
+ .margin-titres-bottom {
+     margin-bottom:25% !important;
+ }
+
+ h2{
+     text-align: center;
+ }
+
+ .bloc-noir {
+    padding: 9% !important;
+    background: rgba(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+ }
+
+ .logo-bat {
+    max-width: 10%;
+    height: auto;
+}
+
+footer{
+    background-color: black;
+    padding: 50px;
+  }
+
+  h1{
+      display: none;
+  }
+
+
+
+
